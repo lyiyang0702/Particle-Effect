@@ -1,0 +1,26 @@
+﻿  main.cpp
+D:\Particle Effect\main.cpp(37,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Particle Effect\main.cpp(39,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Particle Effect\main.cpp(46,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Particle Effect\main.cpp(101,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Particle Effect\main.cpp(101,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Particle Effect\main.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+D:\Particle Effect\main.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+D:\Particle Effect\Particle.hpp(49): warning C4715: 'Particle::getShape': not all control paths return a value
+  Particle Effect.vcxproj -> D:\Particle Effect\Debug\Particle Effect.exe
